@@ -21,13 +21,13 @@ I believe in **learning by building**. My inspiration comes from books like *Ric
 
 ## 🚀 Featured Projects
 
-### 📌 [Employee Management System (EMS)](https://github.com/Iroshpanday/ems)
+### 📌 [Employee Management System (EMS)](https://github.com/Iroshpanday/Employe-Resource-management-ERM-.git)
 A SaaS-style **Next.js + Prisma + SQL Server** app featuring role-based authentication, employee CRUD, leave requests, attendance tracking, and dashboards.  
 **Tech Stack:** Next.js, TailwindCSS, Prisma, SQL Server, Shadcn UI  
 
 ---
 
-### 📌 [Task Automation & Notification System](https://github.com/Iroshpanday/django-task-automation)
+### 📌 [Task Automation & Notification System](https://github.com/Iroshpanday/TaskMaster-TaskMgmt-NotificationSystem.git)
 A **Django + Celery + Redis** project for automating background jobs, scheduling tasks, and real-time notifications.  
 **Tech Stack:** Django, Celery, Redis, PostgreSQL  
 
